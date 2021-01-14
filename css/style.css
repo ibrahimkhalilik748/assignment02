@@ -79,3 +79,28 @@ h1{
 h1 span{
     color: #363958;
 }
+.text-box{
+    height: 80px;
+}
+.form-chat{
+    width: 250px;
+}
+.form{
+    margin: auto;
+    width: 90%;
+    height: 400px;
+    padding: 20px;
+    background-color: #f1f1f1a3;
+}
+.btn-form{
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-top: 5px;
+    color: white;
+    background-color:#92AC2C;
+}
+.width{
+    margin: auto;
+    width: 20%;
+    padding-top: 50px;
+}
