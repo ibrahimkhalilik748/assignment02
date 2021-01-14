@@ -1,0 +1,81 @@
+.container-fluid img{
+    width: 300px;
+}
+li{
+    padding-left: 20px;
+    font-weight: 600;
+}
+.btn img{
+    width: 15%;
+}
+.head-img img{
+    width: 90%;
+}
+.img-size{
+    width: 100%;
+    height: 350px;
+    background-color: #F1F1F1;
+    border-radius: 20px;
+}
+.img-size img{
+    width: 90%;
+    margin: auto;
+    padding-top: 15px;
+}
+.Penguin-card{
+    border: 0px;
+    border-radius: 20px;
+    background-color: #FFFFFF;
+    padding-bottom: 10px;
+}
+.btn-Penguin{
+    color: white;
+    background-color: #92AC2C;
+    border: 0;
+    border-radius: 7px;
+    padding: 10px 10px;
+    margin-right: 15px;
+}
+.icos{
+    width: 100%;
+    height: 120px;
+    margin-bottom: 20px;
+}
+.icos img{
+    width: 50%;
+    padding-top: 15px;
+    padding-left: 15px;
+}
+#list-img img{
+    width: 100%;
+}
+h1, h2, h3, h4, h5, h6{
+    font-weight: 700;
+}
+#height{
+    height: 600px;
+}
+@media (max-width:767px){
+    .img-size img{
+        width: 60%;
+    }
+}
+h5{
+    color: #363958;
+    font-size: 23px;
+}
+h3{
+    color: #FABE4C;
+    font-size: 35px;
+}
+h2{
+    color: #363958;
+    font-size: 40px;
+}
+h1{
+    color: #FABE4C;
+    font-size: 55px;
+}
+h1 span{
+    color: #363958;
+}
